@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2 align='center'> 👋 Hi there! </h2>
 
-<!--
-**moluh/moluh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align='center'> 👨‍💻 Full Stack Developer </h2> 
+<p align='center'>
+ 🛡 NodeJS - React/Angular
+</p>
 
-Here are some ideas to get you started:
+<br/>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=moluh&show_icons=true&theme=midnight-purple&count_private=true" width="350"></a>
+</p>  
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moluh&layout=compact&show_icons=true&theme=midnight-purple" width="350"></a>
+</p> 
+
+<p align='center'>
+  <a href="https://morettilucas.com.ar" target="_blank"> 👉 Click me! </a>
+</p>
